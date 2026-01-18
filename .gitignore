@@ -17,3 +17,5 @@ Thumbs.db
 
 # Ignore Java source files
 *.java
+*.class
+
